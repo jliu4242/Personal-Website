@@ -1,0 +1,5 @@
+{
+    "rewerites": [
+        { "source": "/(.*)", "destination": "/index.html"}
+    ]
+}
